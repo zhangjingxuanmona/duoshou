@@ -53,7 +53,6 @@ new Swiper('.swiper-container', {
 });
 
 //->MUSIC
-/*
 ~function () {
     var musicMenu = document.getElementById('musicMenu'),
         musicAudio = document.getElementById('musicAudio');
@@ -78,4 +77,4 @@ new Swiper('.swiper-container', {
     }
 
     window.setTimeout(controlMusic, 1000);
-}();*/
+}();

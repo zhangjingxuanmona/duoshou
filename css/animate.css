@@ -2647,6 +2647,9 @@ Copyright (c) 2015 Daniel Eden
     50% {
         opacity: 1;
     }
+    100%{
+        opacity: 1;
+    }
 }
 
 @keyframes zoomIn {
@@ -2657,6 +2660,9 @@ Copyright (c) 2015 Daniel Eden
     }
 
     50% {
+        opacity: 1;
+    }
+    100%{
         opacity: 1;
     }
 }
